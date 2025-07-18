@@ -1,12 +1,12 @@
 
 
-<h1> Olá! Eu sou Vinícius ✨</h1>
+<h1> Olá! Eu sou Vinícius</h1>
 
 Olá. me chamo Vinícius e...
 
-- 🔭 Estou trabalhando como Desenvolvedor Back-end
-- 📚 Estou estudando python, JavaScript e TypeScript
-- ⚡ No meu tempo livre gosto de praticar algum hobby como fotografia <br>
+- 🔭 Estou trabalhando como Desenvolvedor Full-stack
+- 📚 Estou estudando TypeScript
+- ⚡ No meu tempo livre gosto de fotografar<br>
 
 ## 📱 Contatos
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusalmeidabe/)
@@ -15,13 +15,12 @@ Olá. me chamo Vinícius e...
 
 ## 🛠 Tecnologias que eu uso:
 <div style="display: inline-block; ">
-    <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-    <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
     <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
     <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express">
     <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node">
     <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+    <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
 </div>
 
 ## 🔥 Meus Status
@@ -29,8 +28,4 @@ Olá. me chamo Vinícius e...
   <img src="https://github-readme-stats.vercel.app/api?username=Vinicius083&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinicius083&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div> <hr>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Vinicius083/count.svg?"  />
-</div>
 
