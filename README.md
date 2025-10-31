@@ -70,5 +70,3 @@ Sou curioso por natureza e gosto de aprender continuamente, explorando novas tec
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Vinicius083&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=1)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
-
-**© 2025 Vinicius Almeida**
